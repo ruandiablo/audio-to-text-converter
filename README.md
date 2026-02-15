@@ -50,6 +50,7 @@ Note: If you have an NVIDIA GPU with CUDA support, Whisper will automatically us
 2. Make sure you have these files in the same folder (e.g., your Desktop):
 
 📁 Your folder
+
 ├── mt.py              ← main program
 
 ├── INSTALAR.bat       ← automatic installer (run once)
@@ -86,6 +87,7 @@ Warning: The generated executable will be 2–5 GB in size because it bundles Py
 
 ### 🌐 Language Support
 The application interface supports Portuguese (BR) and English (US). Click the flag icons in the top-right corner to switch languages.
+
 Whisper supports transcription in 10+ languages: Portuguese, English, Spanish, French, Italian, German, Japanese, Korean, Chinese, Russian, and Auto-detect.
 
 ### 🎯 Quick Reference
