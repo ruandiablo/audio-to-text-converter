@@ -51,7 +51,9 @@ Note: If you have an NVIDIA GPU with CUDA support, Whisper will automatically us
 
 📁 Your folder
 ├── mt.py              ← main program
+
 ├── INSTALAR.bat       ← automatic installer (run once)
+
 └── CRIAR_EXE.bat      ← optional: generates standalone .exe
 
 Tip: If creating mt.py manually in Notepad, change "Save as type" from Text Documents (*.txt) to All Files (*.*) to ensure the .py extension is saved correctly.
