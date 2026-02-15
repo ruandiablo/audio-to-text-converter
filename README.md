@@ -93,23 +93,37 @@ Whisper supports transcription in 10+ languages: Portuguese, English, Spanish, F
 ### 🎯 Quick Reference
 
 Action /	How
+
 Open audio file /	Click the drop zone or press Ctrl+O
+
 Start transcription /	Click one of the 5 model buttons (TINY → LARGE)
+
 Copy result /	Click Copy or press Ctrl+C after selecting text
+
 Save as TXT /	Click Save TXT or press Ctrl+S
+
 Save as SRT /	Click Save SRT (subtitles with timestamps)
+
 Change UI language /	Click 🇧🇷 or 🇺🇸 flag icons
+
 Adjust font size /	Click A+ / A- buttons
+
 
 Tip: Start with SMALL for a good balance. Use LARGE only when you need maximum precision and have a GPU.
 
 ### ⚠️ Troubleshooting
 Problem /	Solution
+
 whisper not found /	Run pip install openai-whisper
+
 FFmpeg not found /	Run conda install -c conda-forge ffmpeg -y
+
 Download stalls on MEDIUM/LARGE /	The app retries automatically up to 3 times. Check your internet connection
+
 Program doesn't open via shortcut /	Run INSTALAR.bat again to recreate the launcher
+
 No GPU detected /	Install CUDA Toolkit and pip install torch with CUDA support
+
 
 This project is Open Source. Feel free to contribute!
 
